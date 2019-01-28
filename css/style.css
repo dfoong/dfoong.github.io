@@ -1,0 +1,50 @@
+.bg-primary {
+
+    background-color:#dfafa9 !important;
+
+}
+
+hr.star-light:after {
+    background-color: rgba(33, 104, 126, 0.514) !important;
+}
+
+header.masthead h1 {
+    font-size: 2rem;
+    line-height: 2rem;
+    color: #FFF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight: 700;
+}
+
+.navbar-brand {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-weight: 700;
+    font-family: Segoe UI, sans-serif !important;
+}
+
+.bg-secondary {
+    background-color: #0c1a3a !important;
+}
+
+.lead {
+    font-size: 1rem !important;
+    font-weight: 300;
+}
+
+.btn-primary {
+    background-color:#0c1a3a !important;
+    border-color: #0c1a3a !important;
+    
+}
+
+#mainNav .navbar-nav li.nav-item a.nav-link:hover {
+    color: #ffe749; 
+}
+
+#mainNav .navbar-nav li.nav-item a.nav-link:active {
+    color: #000; 
+}
